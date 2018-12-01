@@ -31,11 +31,3 @@ Display a freeform bitcoin block explorer with results displaying in a table and
 1. Upload/install the plugin on your WordPress website
 2. Place the [searchingTheBlocks] shortcode wherever you\'d like to display your block explorer
 3. That\'s it!
-
-== Additional Info One (Optional) ==
-
-Donate BTC: 3EYfd42eD5dZCWVBXYzrF5wMMR4ERLs68b
-
-Donate ETH: 0x020FB5A3DfcA8a23c2D3a2d8fe37E277ce183011
-
-Donate LTC: MD1kYZZALcZRRidE4E4ey4LhnT5C5eEfWU
